@@ -1,0 +1,24 @@
+.container{
+    border: 2px solid #DCDCDC;
+    border-radius: 12px;
+    height: 300px;
+    width: 400px;
+    padding: 24px;
+}
+
+.headText{
+    /* text-align: center; */
+    font-size: 24px;
+}
+
+.formContainer{
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.flexDiv{
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
